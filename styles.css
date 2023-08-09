@@ -289,8 +289,8 @@ footer > p {
 
 }
 .inkcontain{margin:0px;
-	    width:100% ;
-	    height:100px;
+	    width:300px;
+	    height:300px;
 	    border-radius: 15%;
 	    background-color: rgba(241, 239, 239, 0.81);
 }
